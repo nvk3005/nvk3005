@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nguyen%20Van%20Ke&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="banner.svg" width="100%" alt="Nguyen Van Ke - Backend Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Final-year+Software+Engineering+student;Building+scalable%2C+secure+%26+reliable+backends;Java+%7C+Spring+Boot+%7C+RESTful+APIs;Open+to+Java+Internship+%2F+Fresher+roles" alt="Typing SVG" />
@@ -82,9 +82,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvk3005&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nvk3005&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -102,6 +99,5 @@
 
 *"Clean code, solid architecture, reliable systems."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
